@@ -3,8 +3,7 @@
 #  Slight modification of  the  CD Algorithm for the Replicated Softmax Model 
 #  implemented by Daichi Mochihashi, http://chasen.org/~daiti-m/dist/rsm/
 #   
-#   see the paper aaaaa, bbbbb: xxxxxxxx. J cccccccc (forthcoming )
-#   
+#     
 #  Literature Reference:  
 #  Salakhutdinov, R, Hinton, GE (2009) Replicated softmax: An undirected topic model.  In: 
 #  Proceedings of the 22nd International Conference on Neural Information Processing Systems, 
